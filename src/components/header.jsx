@@ -1,11 +1,14 @@
 import UserData from "./userData.jsx"
+import { Link } from "react-router-dom"
  
 export default function Header(){
+    console.log("Header component loading...")
     return(
-        <div className="bg-red-500">
-            <h1 className="font-bold text-blue-700">Vihanga Sachintha</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, molestias perspiciatis laboriosam provident nihil laudantium nobis recusandae soluta voluptatum quidem explicabo asperiores ea blanditiis illo obcaecati culpa iste. Impedit, quaerat.</p>
-            <UserData></UserData>
+        <div className="bg-yellow-500">
+            <Link to="/">Home</Link>
+            <Link to="/login">Login</Link>
+            <Link to="/signup">Sign Up</Link>
+            <a href="https://www.google.com"></a>
         </div>
     )
 }
