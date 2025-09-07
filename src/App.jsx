@@ -28,3 +28,8 @@ function App() {
 }
 
 export default App;
+
+
+//https://kuieyzgnzuxwutbpsfzb.supabase.co
+
+//eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imt1aWV5emduenV4d3V0YnBzZnpiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTcxMjIzNzYsImV4cCI6MjA3MjY5ODM3Nn0.q4pVuPQ8ZnM5hgVAR9OPTh_gtuX3oBIk2n84OL0Bmo8
